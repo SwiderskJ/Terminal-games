@@ -3,9 +3,10 @@ from random import randint
 
 def lotto():
     """
-    input: user write 6 numbers
+    :rtype: int
     :return: number of hit numbers
     """
+
     # draw 6 numbers
     draw_numbers = []
     while len(draw_numbers) != 6:
