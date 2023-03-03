@@ -2,6 +2,10 @@ from random import randint
 
 
 def guess_the_number():
+    """
+    :rtype: int
+    :return: check and answer user
+    """
 
     print("""
     This is guess the number game.
