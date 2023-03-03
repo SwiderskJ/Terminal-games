@@ -1,3 +1,4 @@
-#Tiny Terminal Games
+#### Tiny Terminal Games ####
 
-Technology: Pure Python 
+1 Guess the number
+  Technology: Pure Python 
