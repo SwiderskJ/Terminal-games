@@ -14,6 +14,10 @@ def dice(type_of_dices):
 
 
 def game():
+    """
+    :rtype: str
+    :return: Result of a game
+    """
     print("""
         Simple game about achieve 2001 point.
         * First player toss a dices chosen by user two times.
